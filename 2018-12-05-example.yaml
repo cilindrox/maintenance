@@ -1,0 +1,6 @@
+# name: "Scheduled maintenance"
+# message: "We'll be rolling updates to our web page which will result in our website being unavailable for a small period of time."
+scheduled_for: "2018-12-04T19:00:00Z"
+scheduled_until: "2018-12-04T20:00:00Z"
+components:
+  - "pager.com"
